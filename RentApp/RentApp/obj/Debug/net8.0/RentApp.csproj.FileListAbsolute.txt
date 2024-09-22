@@ -1,0 +1,14 @@
+C:\Users\ismail\source\repos\RentApp\RentApp\bin\Debug\net8.0\RentApp.exe
+C:\Users\ismail\source\repos\RentApp\RentApp\bin\Debug\net8.0\RentApp.deps.json
+C:\Users\ismail\source\repos\RentApp\RentApp\bin\Debug\net8.0\RentApp.runtimeconfig.json
+C:\Users\ismail\source\repos\RentApp\RentApp\bin\Debug\net8.0\RentApp.dll
+C:\Users\ismail\source\repos\RentApp\RentApp\bin\Debug\net8.0\RentApp.pdb
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\RentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\RentApp.AssemblyInfoInputs.cache
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\RentApp.AssemblyInfo.cs
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\RentApp.csproj.CoreCompileInputs.cache
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\RentApp.dll
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\refint\RentApp.dll
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\RentApp.pdb
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\RentApp.genruntimeconfig.cache
+C:\Users\ismail\source\repos\RentApp\RentApp\obj\Debug\net8.0\ref\RentApp.dll
